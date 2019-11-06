@@ -16,5 +16,15 @@ namespace Appfunciones1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        private int funcionsuma(int a,int b)
+        {
+            retun(a + b);
+
+        }
     }
 }
